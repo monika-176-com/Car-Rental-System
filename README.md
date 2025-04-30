@@ -102,6 +102,16 @@
    - Generate revenue and performance reports.
 
 ---
+##  Technologies Used
+#### PHP – Server-side scripting
+
+#### MySQL – Database management
+
+#### HTML/CSS/JavaScript – Frontend
+
+#### Bootstrap – Responsive design
+
+#### jQuery – Interactive features
 
 ##  File Structure
 
@@ -127,13 +137,3 @@
 ├── profile.php             # User dashboard
 ├── bookings.php            # Booking management
 └── database.sql            # DB schema
-##  Technologies Used
-#### PHP – Server-side scripting
-
-#### MySQL – Database management
-
-#### HTML/CSS/JavaScript – Frontend
-
-#### Bootstrap – Responsive design
-
-#### jQuery – Interactive features
